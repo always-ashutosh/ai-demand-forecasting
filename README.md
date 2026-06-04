@@ -1,11 +1,10 @@
 ## Live Applications
 
 Forecasting App:
-https://lavishjangid-food-restaurant-series-ai-mod-streamlit-app-icmgvf.streamlit.app/
+https://always-ashutosh-ai-demand-forecasting-streamlit-app-x3frab.streamlit.app/
 
 Dashboard:
-https://lavishjangid-food-restaurant-series-ai-mod-dashboard-app-g0qeom.streamlit.app/
-
+https://always-ashutosh-ai-demand-forecasting-dashboard-app-9bqkty.streamlit.app/
 
 
 Model: XGBoost Regressor
